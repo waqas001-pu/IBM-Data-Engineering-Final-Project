@@ -1,4 +1,4 @@
-# 🎓 IBM Data Engineering Final Project — Data Engineering for a Consulting Firm
+# 🎓 IBM Data Engineering Final Project — NoSQl Data Engineering for a Consulting Firm
 
 ## 📘 Project Overview
 This project was completed as part of the **IBM Data Engineering Professional Certificate**.  
